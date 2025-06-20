@@ -13,7 +13,7 @@
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="CANCERIAN!" /></a>
 </div>
 
 
@@ -37,38 +37,6 @@
 - 📫 Feel free to reach me out **umer.farooq39@yahoo.com**
 <!--Intro end-->
 
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
@@ -85,12 +53,13 @@
     <img src="https://skillicons.dev/icons?i=git,docker,redis,github,linux,nginx,mysql,postman,vscode,kubernetes,jenkins,rabbitmq,kafka,redhat&perline=14" />
   </a>
   <a href="https://wso2.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/path/wso2-icon.png" alt="WSO2" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/UmerFarooq39/Umer-Farooq/main/_solution_logo_09042024_62900883.png" alt="WSO2" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
   </a>
 </p>
+
 
 
 
